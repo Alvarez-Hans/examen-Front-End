@@ -1,0 +1,33 @@
+body { 
+  background-color: #5DE9BB;
+}
+
+/* Modify brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text,
+.navbar-toggler-icon, .btn-nav {
+  color: white;
+  background-color: #84E4C4;
+}
+
+.fab {
+  width:32;
+  height:32;
+}
+
+.card {
+  width: 18rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.carousel-caption{
+  color:white;
+  font-size: 8;
+}
+
+#ContactoFormulario {
+  background-image: url('img/bg-contactos.webp');
+  background-position: center;
+  /* background-size: cover; */
+}
